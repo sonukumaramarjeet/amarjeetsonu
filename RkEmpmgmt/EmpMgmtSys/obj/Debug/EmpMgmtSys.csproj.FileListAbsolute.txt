@@ -1,0 +1,4 @@
+D:\MyDoc\Programming\RkEmpmgmt\EmpMgmtSys\bin\EmpMgmtSys.dll
+D:\MyDoc\Programming\RkEmpmgmt\EmpMgmtSys\bin\EmpMgmtSys.pdb
+D:\MyDoc\Programming\RkEmpmgmt\EmpMgmtSys\obj\Debug\EmpMgmtSys.dll
+D:\MyDoc\Programming\RkEmpmgmt\EmpMgmtSys\obj\Debug\EmpMgmtSys.pdb
