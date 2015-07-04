@@ -1,0 +1,20 @@
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.vbprojResolveAssemblyReference.cache
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.Resources.resources
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.vbproj.GenerateResource.Cache
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\bin\ExcelIMporting.dll
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\bin\ExcelIMporting.pdb
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\bin\ExcelIMporting.xml
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\bin\itextsharp.dll
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\bin\itextsharp.pdfa.dll
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.dll
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.xml
+D:\MyDoc\Soft\ExportXml\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.pdb
+E:\What i Did\ExportXml\ExcelIMporting\bin\ExcelIMporting.dll
+E:\What i Did\ExportXml\ExcelIMporting\bin\ExcelIMporting.pdb
+E:\What i Did\ExportXml\ExcelIMporting\bin\ExcelIMporting.xml
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.vbprojResolveAssemblyReference.cache
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.Resources.resources
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.vbproj.GenerateResource.Cache
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.dll
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.xml
+E:\What i Did\ExportXml\ExcelIMporting\obj\Debug\ExcelIMporting.pdb
