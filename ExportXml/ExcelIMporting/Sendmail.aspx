@@ -11,7 +11,7 @@
     <div align="center">
     <table>
     <tr>
-     <th colspan="3">Sending Mail From Your Mail</th>
+     <th colspan="3">Sending Mail From Your Own Created  E-Mail</th>
     </tr>
     <tr>
      <th colspan="3">
