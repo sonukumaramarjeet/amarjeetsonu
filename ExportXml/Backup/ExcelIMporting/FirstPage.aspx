@@ -20,6 +20,7 @@
     <br />
     <asp:Button runat="server" ID="btnexport" Text="Export As Excel" /> &nbsp;<asp:Button runat="server" ID="btnpdf" Text="Export As PDF" />
     &nbsp;<asp:Button runat="server" ID="btnword" Text="Export As Word" />&nbsp;<asp:Button runat="server" ID="btntext" Text="Export As Text" />
+    <asp:Button runat="server" ID="mybutton" Text="showbutton" />
     </form>
 </body>
 </html>
