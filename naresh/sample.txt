@@ -1,1 +1,4 @@
+This is master branch text file
+
+
 This is new sample file to checking
