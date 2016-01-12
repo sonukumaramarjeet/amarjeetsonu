@@ -1,4 +1,4 @@
-gdfhgdfdfdfhf
+This is my new branch text file 
 
 
 remote branch change 
