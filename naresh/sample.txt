@@ -1,4 +1,11 @@
+
 This is master branch text file
 
 
 This is new sample file to checking
+
+This is my new branch text file 
+
+
+remote branch change 
+
