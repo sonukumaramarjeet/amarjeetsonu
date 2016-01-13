@@ -1,1 +1,2 @@
 This is one file added to master branch
+now it is in new branch also because it is merged
