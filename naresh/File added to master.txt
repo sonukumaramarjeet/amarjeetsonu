@@ -1,2 +1,8 @@
 This is one file added to master branch
 modifyed the content for check the diff
+
+When this sort of conflict occurs, Git writes a special block
+into the file that contains the contents of both versions where 
+the conflict occurred. To complete this type of merge, use your 
+text editor to resolve the conflict, then add the file and 
+commit it to complete the merge.
